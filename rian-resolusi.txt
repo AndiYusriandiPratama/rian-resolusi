@@ -1,0 +1,7 @@
+Rian resolusi
+- minggu pertama mau belajar html, css, dan git
+- minggu ke 2-4 belajar java script
+- minggu ke 5-8 belajar data base atau backend
+- minggu ke 9-12 belajar framework dari fullstack
+- minggu ke 12-16 belajar membuat website dari studi kasus
+- minggu ke 17-20 membuat project sendiri
